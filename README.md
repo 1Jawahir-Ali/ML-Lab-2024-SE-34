@@ -47,9 +47,9 @@ Each lab is organized in its own folder and includes the code, notebooks, and da
 
 | # | Lab | Topic | Status |
 |:-:|:----|:------|:------:|
-| 01 | [📂 Lab01](./Lab01) | *Add topic here (e.g. Introduction to Python & NumPy)* | ✅ Completed |
-| 02 | [📂 Lab02](./Lab02) | *Add topic here (e.g. Data Preprocessing with Pandas)* | ✅ Completed |
-| 03 | [📂 Lab03](./Lab03) | *Add topic here (e.g. Linear Regression)* | ✅ Completed |
+| 01 | [📂 Lab01](./Lab01) | *Warm-up, Data Structures & Functions* | ✅ Completed |
+| 02 | [📂 Lab02](./Lab02) | *NumPy for Numerical Computing* | ✅ Completed |
+| 03 | [📂 Lab03](./Lab03) | *Pakistan Used Cars: Data Cleaning & Analysis* | ✅ Completed |
 | 04 | Lab04 | Coming soon... | ⏳ Upcoming |
 
 > 📝 *More labs will be added as the course progresses.*
