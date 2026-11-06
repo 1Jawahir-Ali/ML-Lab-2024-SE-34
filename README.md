@@ -1,7 +1,7 @@
 #### All The Labs of Machine Learning Are Here!
 <div align="center">
 
-# 🤖 Machine Learning Lab — 2024-SE-34
+# 🤖 Machine Learning Lab - 2024-SE-34
 
 ### A complete collection of Machine Learning lab work, experiments, and notebooks
 
@@ -17,8 +17,6 @@
 
 </div>
 
-
-<!---
 ---
 
 ## 📑 Table of Contents
