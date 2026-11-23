@@ -1,7 +1,6 @@
-#### All The Labs of Machine Learning Are Here!
 <div align="center">
 
-# 🤖 Machine Learning Lab - 2024-SE-34
+# 🤖 Machine Learning Labs - 2024-SE-34
 
 ### A complete collection of Machine Learning lab work, experiments, and notebooks
 
@@ -52,6 +51,12 @@ Each lab is organized in its own folder and includes the code, notebooks, and da
 | 03 | [📂 Lab03](./Lab03) | *Pakistan Used Cars: Data Cleaning & Analysis* | ✅ Completed |
 | 04 | Lab04 | Coming soon... | ⏳ Upcoming |
 | 05 | [📂 Lab05](./Lab05) | *Simple Linear Regression* | ✅ Completed |
+| 06 | Lab06 | Coming soon... | ⏳ Upcoming |
+| 07 | Lab07 | Coming soon... | ⏳ Upcoming |
+| 08 | Lab08 | Coming soon... | ⏳ Upcoming |
+| 09 | Lab09 | Coming soon... | ⏳ Upcoming |
+| 10 | Lab10 | Coming soon... | ⏳ Upcoming |
+
 
 
 > 📝 *More labs will be added as the course progresses.*
@@ -67,6 +72,11 @@ ML-Lab-2024-SE-34/
 ├── 📁 Lab02/            # Lab 02 — code, notebooks & data
 ├── 📁 Lab03/            # Lab 03 — code, notebooks & data
 ├── 📁 Lab05/            # Lab 05 — code, notebooks & data
+├── 📁 Lab06/            # Lab 06 — code, notebooks & data
+├── 📁 Lab07/            # Lab 07 — code, notebooks & data
+├── 📁 Lab08/            # Lab 08 — code, notebooks & data
+├── 📁 Lab09/            # Lab 09 — code, notebooks & data
+├── 📁 Lab10/            # Lab 10 — code, notebooks & data
 │
 └── 📄 README.md         # Project documentation (you are here)
 ```
@@ -144,8 +154,13 @@ By working through these labs, I am learning to:
 - [x] Lab 01
 - [x] Lab 02
 - [x] Lab 03
-- [x] Lab 04
+- [ ] Lab 04
 - [x] Lab 05
+- [ ] Lab 06
+- [ ] Lab 07
+- [ ] Lab 08
+- [ ] Lab 09
+- [ ] Lab 10
 - [ ] Classification algorithms
 - [ ] Clustering techniques
 - [ ] Model evaluation & optimization
