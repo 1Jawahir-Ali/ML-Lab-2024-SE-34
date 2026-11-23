@@ -51,6 +51,8 @@ Each lab is organized in its own folder and includes the code, notebooks, and da
 | 02 | [📂 Lab02](./Lab02) | *NumPy for Numerical Computing* | ✅ Completed |
 | 03 | [📂 Lab03](./Lab03) | *Pakistan Used Cars: Data Cleaning & Analysis* | ✅ Completed |
 | 04 | Lab04 | Coming soon... | ⏳ Upcoming |
+| 05 | [📂 Lab05](./Lab05) | *Simple Linear Regression* | ✅ Completed |
+
 
 > 📝 *More labs will be added as the course progresses.*
 
@@ -64,6 +66,7 @@ ML-Lab-2024-SE-34/
 ├── 📁 Lab01/            # Lab 01 — code, notebooks & data
 ├── 📁 Lab02/            # Lab 02 — code, notebooks & data
 ├── 📁 Lab03/            # Lab 03 — code, notebooks & data
+├── 📁 Lab05/            # Lab 05 — code, notebooks & data
 │
 └── 📄 README.md         # Project documentation (you are here)
 ```
@@ -141,6 +144,8 @@ By working through these labs, I am learning to:
 - [x] Lab 01
 - [x] Lab 02
 - [x] Lab 03
+- [x] Lab 04
+- [x] Lab 05
 - [ ] Classification algorithms
 - [ ] Clustering techniques
 - [ ] Model evaluation & optimization
@@ -161,23 +166,7 @@ By working through these labs, I am learning to:
 
 ---
 
-## 🤝 Contributing & Feedback
-
-Suggestions and improvements are always welcome!
-
-1. 🍴 Fork the repository
-2. 🌿 Create a new branch (`git checkout -b feature/improvement`)
-3. 💾 Commit your changes (`git commit -m "Add improvement"`)
-4. 📤 Push to the branch (`git push origin feature/improvement`)
-5. 🔁 Open a Pull Request
-
-Found a bug or have an idea? Feel free to [open an issue](https://github.com/1Jawahir-Ali/ML-Lab-2024-SE-34/issues).
-
----
-
 <div align="center">
-
-### ⭐ If you find this repository helpful, please consider giving it a star! ⭐
 
 *Happy Learning & Happy Coding!* 🚀
 
