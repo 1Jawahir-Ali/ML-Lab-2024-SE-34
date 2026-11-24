@@ -112,7 +112,7 @@ Load data → filter Corolla GLI → explore (correlation, scatter)
 ## 🗂️ Repository Structure
 
 ```
-ML-Lab-<RollNo>/
+ML-Lab-2024-SE-34/
 └── Lab05/
     ├── Lab05.ipynb                    # Notebook (tasks 1–8)
     ├── pakistan_used_cars_clean.csv   # Cleaned dataset
